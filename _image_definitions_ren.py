@@ -15,7 +15,7 @@ def get_file_handle(base_name: str) -> str | None:
     Look for base_name with any of the common image extensions.
     Returns the first matching path from renpy.exports.list_files().
     """
-    exts = (".png", ".jpg", ".jpeg")
+    exts = (".png", ".jpg", ".jpeg", ".webp")
     files = renpy.exports.list_files()
     for ext in exts:
         target = base_name + ext
