@@ -1,5 +1,5 @@
-CTMod Background Mod...1.0.8  
-
+CTMod Background Mod
+#refer to Update txt files for more version fixes.
 V-1.0.8 - added the ability from Kina to allow ".png", ".jpg", ".jpeg", ".webp" extensions for images
 
 #major fix was home improvements weren't firing properly! And forgot to rename the dude.. >.>'
