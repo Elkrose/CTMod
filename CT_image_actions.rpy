@@ -1,4 +1,4 @@
-# Home Improvement  MOD:
+# Cinematic Themes MOD:
 init 100 python: 
     add_label_hijack("normal_start", "update_VT_mom_office_lobby_background")
 

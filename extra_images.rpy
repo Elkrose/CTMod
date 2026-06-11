@@ -1,7 +1,8 @@
 init -10:
-    define CT_MOD = "1.0.8"
+    define CT_MOD = "1.0.9"
     image bg Apartment_Lobby_Background = Apartment_Lobby_Background_image
     image bg Bar_Background = Bar_Background_image
+    image bg Bar_Bathroom_Background = Bar_Bathroom_Background_image
     image bg Bathroom_Background = Bathroom_Background_image
     image bg Beach_Background = Beach_Background_image
     image bg Biotech_Background = Biotech_Background_image
@@ -30,3 +31,5 @@ init -10:
     image bg MC_Starting_Bedroom_Background = MC_Starting_Bedroom_Background_image
     image bg Home_Background = Home_Background_image
     image bg Kitchen_Background = Kitchen_Background_image
+    image bg Sex_Shop_Background = Sex_Shop_Background_image
+    image bg University_Bathroom_Background = University_Bathroom_Background_image

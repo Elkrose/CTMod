@@ -1,0 +1,5 @@
+Version Log - 
+
+V-1.0.9 - fixed the weird 'zip' error that silently happened. Added more images.
+
+V-1.0.8 - added the ability from Kina to allow ".png", ".jpg", ".jpeg", ".webp" extensions for images
